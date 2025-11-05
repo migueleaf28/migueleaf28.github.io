@@ -37,4 +37,4 @@ Otro tema que me pareció muy enriquecedor fue el del **razonamiento lógico**, 
 
 ## Referencias de IA
 
-- ChatGPT: conversación sobre variables en Python [https://chatgpt.com/c/690bbc32-b2cc-8333-9784-37f6f12e63a6] (Enlace chatgtp)
+- ChatGPT: conversación sobre variables en Python [https://chatgpt.com/c/690bbc32-b2cc-8333-9784-37f6f12e63a6](https://chatgpt.com/c/690bbc32-b2cc-8333-9784-37f6f12e63a6)
