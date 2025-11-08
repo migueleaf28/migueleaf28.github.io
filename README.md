@@ -2,7 +2,7 @@
 
 ## Temas vistos en clase
 
-En la primera clase se introdujeron los fundamentos de la computación, comenzando con una explicación mediante el ábaco para relacionar la matemática, que pertenece al mundo de las ideas, con la computación, que opera en el mundo físico o real.
+En la primera clase se introdujeron los fundamentos de la computación, comenzando con una explicación mediante el ábaco para relacionar la matemática, que pertenece al mundo de las ideas, con la computación, que opera en el mundo físico o real. En analog[ia con un abaco
 Se habló del paradigma de la computación, entendido como la forma en que se traduce lo lógico y abstracto en sistemas físicos capaces de ejecutar procesos.
 
 También se mencionó a **Claude Shannon**, considerado uno de los padres de la teoría de la información, quien aportó las bases para representar la lógica mediante circuitos eléctricos.
