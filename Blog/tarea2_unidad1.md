@@ -8,7 +8,7 @@ print("creando tortuga simulada que da...", pasos, "pasos")
 print("-" * pasos + ">")
 ```
 
-# Reto 2 Tortuga bajando
+## Reto 2 Tortuga bajando
 
 ```python
 pasos = 10
@@ -19,7 +19,7 @@ print("V")
 print("La tortuga bajo",pasos,"pasos.")
 ```
 
-# Reto 3 Girar y dibujar usando solo print() e input()
+## Reto 3 Girar y dibujar usando solo print() e input()
 
 ```python
 pasos_bajada = 15
@@ -40,7 +40,7 @@ print("La tortuga bajo", pasos_bajada, "pasos.")
 print("La tortuga recorrió un total de", pasos_totales, "pasos.")
 ```
 
-# Reto 4 Encapsula los comportamientos anteriores usando funciones
+## Reto 4 Encapsula los comportamientos anteriores usando funciones
 
 ```python
 pasos_adelante = int(input("¿Cuántos pasos avanza la tortuga? "))
@@ -62,8 +62,9 @@ adelante(pasos_adelante)
 abajo(pasos_abajo)
 ```
 
-# Reto 5 La tortuga baja las escalones
+## Reto 5 La tortuga baja las escalones
 
 ```python
+# En proceso
 
 ```
