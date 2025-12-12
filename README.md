@@ -42,5 +42,8 @@ Otro tema que me pareció muy enriquecedor fue el del **razonamiento lógico**, 
 ## Enlace Tarea 2
 
 - Enlace tarea 2 [Tarea 2 Unidad 1](https://migueleaf28.github.io/Blog/tarea2_unidad1)
-
 - ChatGPT: preguntas relacionadas a la actividad 2 [https://chatgpt.com/c/6923893d-fa74-8327-ad0e-aae8b26e33ac](https://chatgpt.com/c/6923893d-fa74-8327-ad0e-aae8b26e33ac)
+
+## Tarea Mini-Turtle
+- Tarea 1 [mini_turtle](https://github.com/migueleaf28/project_mini_turtle)
+- Tarea 2 [mini_turtle_poo](https://github.com/migueleaf28/project_mini_turtle_poo)
